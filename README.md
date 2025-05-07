@@ -37,7 +37,7 @@ Make sure to download the dataset and place it in the root directory of this pro
 ## 📌 Notes
 This is an educational project and is not intended for production or financial decision-making.
 
-Due to the imbalanced nature of fraud datasets, evaluation should prioritize recall and precision over accuracy.
+Due to the imbalanced nature of fraud datasets, evaluation should prioritize recall over precision over accuracy.
 
 Feel free to fork, star ⭐️, or contribute to improve this project!
 
