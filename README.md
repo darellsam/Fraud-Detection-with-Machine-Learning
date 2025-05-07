@@ -35,10 +35,10 @@ Make sure to download the dataset and place it in the root directory of this pro
   • Evaluate models using metrics like accuracy, precision, recall, and F1 score.
 
 ## 📌 Notes
-This is an educational project and is not intended for production or financial decision-making.
+  • This is an educational project and is not intended for production or financial decision-making.
 
-Due to the imbalanced nature of fraud datasets, evaluation should prioritize recall over precision over accuracy.
+  • Due to the imbalanced nature of fraud datasets, evaluation should prioritize recall over precision and accuracy.
 
-Feel free to fork, star ⭐️, or contribute to improve this project!
+  • Feel free to fork, star ⭐️, or contribute to improve this project!
 
   
